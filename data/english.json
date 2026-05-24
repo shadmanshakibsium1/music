@@ -1,5 +1,189 @@
 [
   {
+    "name": "﻿Waiting For Love",
+    "artist": "﻿Avicii",
+    "album": "﻿100x Zomer 2016",
+    "file": "Avicii - Waiting For Love(MP3_128K).mp3",
+    "cover": "Avicii - Waiting For Love(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿Waiting For The Sun",
+    "artist": "﻿Bars and Melody",
+    "album": "﻿SADBOI",
+    "file": "Bars and Melody - Waiting For The Sun - Live Performance _ Vevo(MP3_128K).mp3",
+    "cover": "Bars and Melody - Waiting For The Sun - Live Performance _ Vevo(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿BURN IT DOWN",
+    "artist": "﻿Linkin Park",
+    "album": "﻿LIVING THINGS",
+    "file": "BURN IT DOWN (Official Music Video) [4K Upgrade] - Linkin Park(MP3_128K).mp3",
+    "cover": "BURN IT DOWN (Official Music Video) [4K Upgrade] - Linkin Park(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿Paradise",
+    "artist": "﻿Coldplay",
+    "album": "﻿Mylo Xyloto",
+    "file": "Coldplay - Paradise (Official Video)(MP3_128K).mp3",
+    "cover": "Coldplay - Paradise (Official Video)(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿Daylight",
+    "artist": "﻿Maroon 5",
+    "album": "﻿Overexposed",
+    "file": "Daylight(MP3_128K).mp3",
+    "cover": "Daylight(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿Sugar & Brownies",
+    "artist": "﻿DHARIA",
+    "album": "﻿Sugar & Brownies",
+    "file": "Dharia - Sugar _ Brownies (Official Video) [Ultra Music](MP3_128K).mp3",
+    "cover": "Dharia - Sugar _ Brownies (Official Video) [Ultra Music](MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿Castle on the Hill",
+    "artist": "﻿Ed Sheeran",
+    "album": "﻿÷ (Deluxe)",
+    "file": "Ed Sheeran - Castle On The Hill [Official Music Video](MP3_128K).mp3",
+    "cover": "Ed Sheeran - Castle On The Hill [Official Music Video](MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿Bleeding Out",
+    "artist": "﻿Imagine Dragons",
+    "album": "﻿Night Visions",
+    "file": "Imagine Dragons - Bleeding Out (Lyric Video)(MP3_128K).mp3",
+    "cover": "Imagine Dragons - Bleeding Out (Lyric Video)(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿Whatever It Takes",
+    "artist": "﻿Imagine Dragons",
+    "album": "﻿100x Zomer 2018",
+    "file": "Imagine Dragons - Whatever It Takes (Official Music Video)(MP3_128K).mp3",
+    "cover": "Imagine Dragons - Whatever It Takes (Official Music Video)(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿Wish I Never Met You",
+    "artist": "﻿Loote",
+    "album": "﻿single.",
+    "file": "Loote - Wish I Never Met You (Audio)(MP3_128K).mp3",
+    "cover": "Loote - Wish I Never Met You (Audio)(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿Maroon 5 - Sugar (Official Music Video)",
+    "artist": "﻿Maroon5VEVO",
+    "album": "﻿Maroon5VEVO",
+    "file": "Maroon 5 - Sugar (Official Music Video)(MP3_128K).mp3",
+    "cover": "Maroon 5 - Sugar (Official Music Video)(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿What Lovers Do (feat. SZA)",
+    "artist": "﻿Maroon 5, SZA",
+    "album": "﻿What Lovers Do (feat. SZA)",
+    "file": "Maroon 5 - What Lovers Do ft. SZA (Official Music Video)(MP3_128K).mp3",
+    "cover": "Maroon 5 - What Lovers Do ft. SZA (Official Music Video)(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿Bad boy",
+    "artist": "﻿Marwa Loud",
+    "album": "﻿Loud",
+    "file": "Marwa Loud - Bad Boy (Clip Officiel)(MP3_128K).mp3",
+    "cover": "Marwa Loud - Bad Boy (Clip Officiel)(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿Without You",
+    "artist": "﻿Oh Wonder",
+    "album": "﻿Oh Wonder",
+    "file": "Oh Wonder - Without You(MP3_128K).mp3",
+    "cover": "Oh Wonder - Without You(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿What Makes You Beautiful",
+    "artist": "﻿One Direction",
+    "album": "﻿The Ultimate Office Party",
+    "file": "One Direction - What Makes You Beautiful (Official Video)(MP3_128K).mp3",
+    "cover": "One Direction - What Makes You Beautiful (Official Video)(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿Atlantis",
+    "artist": "﻿Seafret",
+    "album": "﻿Tell Me It's Real (Expanded Edition)",
+    "file": "Seafret - Atlantis (Official Video)(MP3_128K).mp3",
+    "cover": "Seafret - Atlantis (Official Video)(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿Good For You",
+    "artist": "﻿Selena Gomez, A$AP Rocky",
+    "album": "﻿Good For You",
+    "file": "Selena Gomez - Good For You(MP3_128K).mp3",
+    "cover": "Selena Gomez - Good For You(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿Way Back Home",
+    "artist": "﻿SHAUN",
+    "album": "﻿Take",
+    "file": "SHAUN – Way Back Home (feat. Conor Maynard) [Sam Feldt Edit] (Official Lyric Video)(MP3_128K).mp3",
+    "cover": "SHAUN – Way Back Home (feat. Conor Maynard) [Sam Feldt Edit] (Official Lyric Video)(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿Angel With A Shotgun",
+    "artist": "﻿The Cab",
+    "album": "﻿Symphony Soldier",
+    "file": "The Cab-Angel With A Shotgun (Lyrics Video)(MP3_128K).mp3",
+    "cover": "The Cab-Angel With A Shotgun (Lyrics Video)(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿Something Just Like This",
+    "artist": "﻿The Chainsmokers, Coldplay",
+    "album": "﻿Now 100 Hits Summer",
+    "file": "The Chainsmokers _ Coldplay - Something Just Like This (Official Lyric Video)(MP3_128K).mp3",
+    "cover": "The Chainsmokers _ Coldplay - Something Just Like This (Official Lyric Video)(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿Walk Thru Fire",
+    "artist": "﻿Vicetone",
+    "album": "﻿Walk Thru Fire",
+    "file": "Vicetone - Walk Thru Fire (Lyrics) ft. Meron Ryan(MP3_128K).mp3",
+    "cover": "Vicetone - Walk Thru Fire (Lyrics) ft. Meron Ryan(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿Vibez",
+    "artist": "﻿ZAYN",
+    "album": "﻿Nobody Is Listening",
+    "file": "ZAYN - Vibez (Official Video)(MP3_128K).mp3",
+    "cover": "ZAYN - Vibez (Official Video)(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿I Don’t Wanna Live Forever (Fifty Shades Darker)",
+    "artist": "﻿ZAYN, Taylor Swift",
+    "album": "﻿reputation Stadium Tour Surprise Song Playlist",
+    "file": "ZAYN_ Taylor Swift - I Don_t Wanna Live Forever (Fifty Shades Darker)(MP3_128K).mp3",
+    "cover": "ZAYN_ Taylor Swift - I Don_t Wanna Live Forever (Fifty Shades Darker)(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
     "name": "﻿Why This Kolaveri Di?",
     "artist": "﻿Anirudh Ravichander, Dhanush",
     "album": "﻿3 (Original Motion Picture Soundtrack)",
