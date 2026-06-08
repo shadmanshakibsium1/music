@@ -1,5 +1,437 @@
 [
   {
+    "name": "﻿Someone Like You",
+    "artist": "﻿Adele",
+    "album": "﻿21",
+    "file": "Adele - Someone Like You (Official Music Video)(MP3_128K).mp3",
+    "cover": "Adele - Someone Like You (Official Music Video)(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿Apocalypse",
+    "artist": "﻿Cigarettes After Sex",
+    "album": "﻿Cigarettes After Sex",
+    "file": "Apocalypse - Cigarettes After Sex(MP3_128K).mp3",
+    "cover": "Apocalypse - Cigarettes After Sex(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿Hotel Room",
+    "artist": "﻿Ax and the Hatchetmen",
+    "album": "﻿Hotel Room",
+    "file": "Ax and the Hatchetmen - Hotel Room (Lyric Video)(MP3_128K).mp3",
+    "cover": "Ax and the Hatchetmen - Hotel Room (Lyric Video)(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿Your Eyes",
+    "artist": "﻿Barney Sku, Taqiya Zaman",
+    "album": "﻿Your Eyes",
+    "file": "Barney Sku - Your eyes (Official Audio) ft. Taqiya Zaman(MP3_128K).mp3",
+    "cover": "Barney Sku - Your eyes (Official Audio) ft. Taqiya Zaman(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿Space Song",
+    "artist": "﻿Beach House",
+    "album": "﻿Depression Cherry",
+    "file": "Beach House - Space Song(MP3_128K).mp3",
+    "cover": "Beach House - Space Song(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿Halo",
+    "artist": "﻿Beyoncé",
+    "album": "﻿I AM...SASHA FIERCE",
+    "file": "Beyoncé - Halo(MP3_128K).mp3",
+    "cover": "Beyoncé - Halo(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿BIRDS OF A FEATHER",
+    "artist": "﻿Billie Eilish",
+    "album": "﻿HIT ME HARD AND SOFT",
+    "file": "Billie Eilish - BIRDS OF A FEATHER (Official Music Video)(MP3_128K).mp3",
+    "cover": "Billie Eilish - BIRDS OF A FEATHER (Official Music Video)(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿Breaking the Habit",
+    "artist": "﻿Linkin Park",
+    "album": "﻿Meteora",
+    "file": "Breaking the Habit (Official Music Video) [HD UPGRADE] – Linkin Park(MP3_128K).mp3",
+    "cover": "Breaking the Habit (Official Music Video) [HD UPGRADE] – Linkin Park(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿Tears Don't Fall",
+    "artist": "﻿Bullet For My Valentine",
+    "album": "﻿The Poison",
+    "file": "Bullet For My Valentine - Tears Don_t Fall (Official Video)(MP3_128K).mp3",
+    "cover": "Bullet For My Valentine - Tears Don_t Fall (Official Video)(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿Outside (feat. Ellie Goulding)",
+    "artist": "﻿Calvin Harris, Ellie Goulding",
+    "album": "﻿Spring Break 2015",
+    "file": "Calvin Harris - Outside (Official Video) ft. Ellie Goulding(MP3_128K).mp3",
+    "cover": "Calvin Harris - Outside (Official Video) ft. Ellie Goulding(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿Cemetry Gates - 2011 Remaster",
+    "artist": "﻿The Smiths",
+    "album": "﻿The Queen Is Dead",
+    "file": "Cemetry Gates (2011 Remaster)(MP3_128K).mp3",
+    "cover": "Cemetry Gates (2011 Remaster)(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿Fix You",
+    "artist": "﻿Coldplay",
+    "album": "﻿MNM Love Songs Vol.4",
+    "file": "Coldplay - Fix You (Official Video)(MP3_128K).mp3",
+    "cover": "Coldplay - Fix You (Official Video)(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿Yellow",
+    "artist": "﻿Coldplay",
+    "album": "﻿Siempre blessed",
+    "file": "Coldplay - Yellow (Official Video)(MP3_128K).mp3",
+    "cover": "Coldplay - Yellow (Official Video)(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿Vengeance",
+    "artist": "﻿coldrain",
+    "album": "﻿Vengeance",
+    "file": "coldrain - VENGEANCE (Official Music Video)(MP3_128K).mp3",
+    "cover": "coldrain - VENGEANCE (Official Music Video)(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿On My Own",
+    "artist": "﻿Darci",
+    "album": "﻿On My Own",
+    "file": "Darci - On My Own (Official Audio)(MP3_128K).mp3",
+    "cover": "Darci - On My Own (Official Audio)(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿DECEIVER",
+    "artist": "﻿Jhung - Topic",
+    "album": "﻿Jhung - Topic",
+    "file": "DECEIVER(MP3_128K).mp3",
+    "cover": "DECEIVER(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿Sapphire",
+    "artist": "﻿Ed Sheeran",
+    "album": "﻿Sapphire",
+    "file": "Ed Sheeran - Sapphire (Official Music Video)(MP3_128K).mp3",
+    "cover": "Ed Sheeran - Sapphire (Official Music Video)(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿flowers",
+    "artist": "﻿Evan Fong",
+    "album": "﻿speed",
+    "file": "Evan Fong - flowers (Official Audio)(MP3_128K).mp3",
+    "cover": "Evan Fong - flowers (Official Audio)(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿Bring Me To Life",
+    "artist": "﻿Evanescence",
+    "album": "﻿Daredevil - The Album (Music From The Motion Picture)",
+    "file": "Evanescence - Bring Me To Life (Official HD Music Video) ft. Paul McCoy(MP3_128K).mp3",
+    "cover": "Evanescence - Bring Me To Life (Official HD Music Video) ft. Paul McCoy(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿Figure.09",
+    "artist": "﻿Linkin Park",
+    "album": "﻿Meteora (Bonus Edition)",
+    "file": "Figure.09 - Linkin Park (Meteora)(MP3_128K).mp3",
+    "cover": "Figure.09 - Linkin Park (Meteora)(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿Mask Off",
+    "artist": "﻿Future",
+    "album": "﻿NOW Hip-Hop At 50",
+    "file": "Future - Mask Off (Official Music Video)(MP3_128K).mp3",
+    "cover": "Future - Mask Off (Official Music Video)(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿Holiday",
+    "artist": "﻿Green Day",
+    "album": "﻿American Idiot (20th Anniversary Deluxe Edition)",
+    "file": "Green Day - Holiday (Official Audio)(MP3_128K).mp3",
+    "cover": "Green Day - Holiday (Official Audio)(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿Guns N' Roses - Sweet Child O' Mine (Official Music Video)",
+    "artist": "﻿GunsNRosesVEVO",
+    "album": "﻿GunsNRosesVEVO",
+    "file": "Guns N_ Roses - Sweet Child O_ Mine (Official Music Video)(MP3_128K).mp3",
+    "cover": "Guns N_ Roses - Sweet Child O_ Mine (Official Music Video)(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿Harvey",
+    "artist": "﻿Her's",
+    "album": "﻿Invitation to Her's",
+    "file": "Her_s - Harvey (Official Video)(MP3_128K).mp3",
+    "cover": "Her_s - Harvey (Official Video)(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿What Once Was",
+    "artist": "﻿Her's",
+    "album": "﻿Songs of Her's",
+    "file": "Her_s - What Once Was (Official Audio)(MP3_128K).mp3",
+    "cover": "Her_s - What Once Was (Official Audio)(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿Radioactive",
+    "artist": "﻿Imagine Dragons",
+    "album": "﻿Night Visions",
+    "file": "Imagine Dragons - Radioactive(MP3_128K).mp3",
+    "cover": "Imagine Dragons - Radioactive(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿Imagine - Remastered 2010",
+    "artist": "﻿John Lennon",
+    "album": "﻿Imagine",
+    "file": "IMAGINE. (Ultimate Mix_ 2020) - John Lennon _ The Plastic Ono Band (with the Flux Fiddlers) HD(MP3_128K).mp3",
+    "cover": "IMAGINE. (Ultimate Mix_ 2020) - John Lennon _ The Plastic Ono Band (with the Flux Fiddlers) HD(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿Impostor Syndrome",
+    "artist": "﻿Sidney Gish",
+    "album": "﻿No Dogs Allowed",
+    "file": "Impostor Syndrome(MP3_128K).mp3",
+    "cover": "Impostor Syndrome(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿Hurt",
+    "artist": "﻿Johnny Cash",
+    "album": "﻿American IV: The Man Comes Around",
+    "file": "Johnny Cash - Hurt(MP3_128K).mp3",
+    "cover": "Johnny Cash - Hurt(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿Katy Perry - Last Friday Night (T.G.I.F.) (Official Music Video)",
+    "artist": "﻿KatyPerryVEVO",
+    "album": "﻿KatyPerryVEVO",
+    "file": "Katy Perry - Last Friday Night (T.G.I.F.) (Official Music Video)(MP3_128K).mp3",
+    "cover": "Katy Perry - Last Friday Night (T.G.I.F.) (Official Music Video)(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿Stairway to Heaven - Remaster",
+    "artist": "﻿Led Zeppelin",
+    "album": "﻿The Complete Led Zeppelin",
+    "file": "Led Zeppelin - Stairway To Heaven (Official Audio)(MP3_128K).mp3",
+    "cover": "Led Zeppelin - Stairway To Heaven (Official Audio)(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿Fall Back",
+    "artist": "﻿Lithe",
+    "album": "﻿Fall Back / Selfish Game",
+    "file": "Lithe - Fall Back (Visualizer)(MP3_128K).mp3",
+    "cover": "Lithe - Fall Back (Visualizer)(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿Earrings",
+    "artist": "﻿Malcolm Todd",
+    "album": "﻿Sweet Boy",
+    "file": "Malcolm Todd - Earrings (Official Visualizer)(MP3_128K).mp3",
+    "cover": "Malcolm Todd - Earrings (Official Visualizer)(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿Fade Into You",
+    "artist": "﻿Mazzy Star",
+    "album": "﻿Chasing Mavericks (Original Motion Picture Soundtrack)",
+    "file": "Mazzy Star -  Fade Into You(MP3_128K).mp3",
+    "cover": "Mazzy Star -  Fade Into You(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿Bad",
+    "artist": "﻿Michael Jackson",
+    "album": "﻿HIStory - PAST, PRESENT AND FUTURE - BOOK I",
+    "file": "Michael Jackson - Bad (Shortened Version)(MP3_128K).mp3",
+    "cover": "Michael Jackson - Bad (Shortened Version)(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿Heaven Can Wait",
+    "artist": "﻿Michael Jackson",
+    "album": "﻿Invincible",
+    "file": "Michael Jackson - Heaven Can Wait (Official Audio)(MP3_128K).mp3",
+    "cover": "Michael Jackson - Heaven Can Wait (Official Audio)(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿Human Nature",
+    "artist": "﻿Michael Jackson",
+    "album": "﻿Thriller 25 Super Deluxe Edition",
+    "file": "Michael Jackson - Human Nature (Official Audio)(MP3_128K).mp3",
+    "cover": "Michael Jackson - Human Nature (Official Audio)(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿Smells Like Teen Spirit - Butch Vig Mix",
+    "artist": "﻿Nirvana",
+    "album": "﻿With The Lights Out - Box Set",
+    "file": "Nirvana - Smells Like Teen Spirit (Official Music Video)(MP3_128K).mp3",
+    "cover": "Nirvana - Smells Like Teen Spirit (Official Music Video)(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿Nothing's Gonna Hurt You Baby",
+    "artist": "﻿Cigarettes After Sex",
+    "album": "﻿I.",
+    "file": "Nothing_s Gonna Hurt You Baby - Cigarettes After Sex(MP3_128K).mp3",
+    "cover": "Nothing_s Gonna Hurt You Baby - Cigarettes After Sex(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿So Easy (To Fall In Love)",
+    "artist": "﻿Olivia Dean",
+    "album": "﻿The Art of Loving",
+    "file": "Olivia Dean - So Easy (To Fall In Love)(MP3_128K).mp3",
+    "cover": "Olivia Dean - So Easy (To Fall In Love)(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿Last Resort",
+    "artist": "﻿Papa Roach",
+    "album": "﻿Infest",
+    "file": "Papa Roach - Last Resort (Squeaky Clean Version) (Official Music Video)(MP3_128K).mp3",
+    "cover": "Papa Roach - Last Resort (Squeaky Clean Version) (Official Music Video)(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿Bohemian Rhapsody",
+    "artist": "﻿Queen",
+    "album": "﻿Stone Cold Classics",
+    "file": "Queen – Bohemian Rhapsody (Official Video Remastered)(MP3_128K).mp3",
+    "cover": "Queen – Bohemian Rhapsody (Official Video Remastered)(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿Come and Get Your Love - Single Version",
+    "artist": "﻿Redbone",
+    "album": "﻿Summer Songs Upbeat 2022",
+    "file": "Redbone - Come and Get Your Love (Single Edit - Audio)(MP3_128K).mp3",
+    "cover": "Redbone - Come and Get Your Love (Single Edit - Audio)(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿Monster",
+    "artist": "﻿Skillet",
+    "album": "﻿Awake",
+    "file": "Skillet - Monster (Official Video)(MP3_128K).mp3",
+    "cover": "Skillet - Monster (Official Video)(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿The Resistance",
+    "artist": "﻿Skillet",
+    "album": "﻿Unleashed",
+    "file": "Skillet - _The Resistance_ [Official Lyric Video](MP3_128K).mp3",
+    "cover": "Skillet - _The Resistance_ [Official Lyric Video](MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿The Emptiness Machine",
+    "artist": "﻿Linkin Park",
+    "album": "﻿The Emptiness Machine",
+    "file": "The Emptiness Machine (Official Music Video) - Linkin Park(MP3_128K).mp3",
+    "cover": "The Emptiness Machine (Official Music Video) - Linkin Park(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿W.D.Y.W.F.M?",
+    "artist": "﻿The Neighbourhood",
+    "album": "﻿I Love You.",
+    "file": "The Neighbourhood - W.D.Y.W.F.M_ (Official Audio)(MP3_128K).mp3",
+    "cover": "The Neighbourhood - W.D.Y.W.F.M_ (Official Audio)(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿Be My Baby",
+    "artist": "﻿The Ronettes",
+    "album": "﻿Be My Baby: The Very Best of The Ronettes",
+    "file": "The Ronettes - Be My Baby (Official Audio)(MP3_128K).mp3",
+    "cover": "The Ronettes - Be My Baby (Official Audio)(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿Courtesy Call",
+    "artist": "﻿Thousand Foot Krutch",
+    "album": "﻿The End Is Where We Begin",
+    "file": "Thousand Foot Krutch_ Courtesy Call (Official Audio)(MP3_128K).mp3",
+    "cover": "Thousand Foot Krutch_ Courtesy Call (Official Audio)(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿Animal I Have Become",
+    "artist": "﻿Three Days Grace",
+    "album": "﻿One-X",
+    "file": "Three Days Grace - Animal I Have Become (Official Video)(MP3_128K).mp3",
+    "cover": "Three Days Grace - Animal I Have Become (Official Video)(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿I Hate Everything About You",
+    "artist": "﻿Three Days Grace",
+    "album": "﻿Three Days Grace",
+    "file": "Three Days Grace - I Hate Everything About You (Official Video)(MP3_128K).mp3",
+    "cover": "Three Days Grace - I Hate Everything About You (Official Video)(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿Time of Dying",
+    "artist": "﻿Three Days Grace",
+    "album": "﻿One-X",
+    "file": "Three Days Grace - Time of Dying (lyrics)(MP3_128K).mp3",
+    "cover": "Three Days Grace - Time of Dying (lyrics)(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿Riptide",
+    "artist": "﻿Vance Joy",
+    "album": "﻿Dream Your Life Away (Special Edition)",
+    "file": "Vance Joy - _Riptide_ Official Video(MP3_128K).mp3",
+    "cover": "Vance Joy - _Riptide_ Official Video(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
+    "name": "﻿What I've Done",
+    "artist": "﻿Linkin Park",
+    "album": "﻿Minutes to Midnight",
+    "file": "What I_ve Done (Official Music Video) [4K Upgrade] - Linkin Park(MP3_128K).mp3",
+    "cover": "What I_ve Done (Official Music Video) [4K Upgrade] - Linkin Park(MP3_128K).jpg",
+    "genre": ""
+  },
+  {
     "name": "﻿Waiting For Love",
     "artist": "﻿Avicii",
     "album": "﻿100x Zomer 2016",
