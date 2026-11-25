@@ -1,5 +1,37 @@
 [
   {
+    "name": "Lost",
+    "artist": "Linkin Park",
+    "album": "Lost",
+    "file": "Lost [Official Music Video] - Linkin Park(MP3_128K).mp3",
+    "cover": "Lost [Official Music Video] - Linkin Park(MP3_128K).jpg",
+    "playlist": ""
+  },
+  {
+    "name": "Reflections",
+    "artist": "The Neighbourhood",
+    "album": "The Neighbourhood",
+    "file": "The Neighbourhood - Reflections (Official Audio)(MP3_128K).mp3",
+    "cover": "The Neighbourhood - Reflections (Official Audio)(MP3_128K).jpg",
+    "playlist": ""
+  },
+  {
+    "name": "Softcore",
+    "artist": "The Neighbourhood",
+    "album": "The Neighbourhood",
+    "file": "The Neighbourhood - Softcore (Official Audio)(MP3_128K).mp3",
+    "cover": "The Neighbourhood - Softcore (Official Audio)(MP3_128K).jpg",
+    "playlist": ""
+  },
+  {
+    "name": "WE ON GO",
+    "artist": "BIA",
+    "album": "WE ON GO",
+    "file": "WE ON GO(MP3_128K).mp3",
+    "cover": "WE ON GO(MP3_128K).jpg",
+    "playlist": ""
+  },
+  {
     "name": "﻿four raws - 4 Raws",
     "artist": "﻿EsDeeKid",
     "album": "﻿Rebel",
